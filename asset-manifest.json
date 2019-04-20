@@ -1,13 +1,13 @@
 {
-  "main.css": "/test-fullstack/static/css/main.c756cdb3.chunk.css",
-  "main.js": "/test-fullstack/static/js/main.e561cb75.chunk.js",
-  "main.js.map": "/test-fullstack/static/js/main.e561cb75.chunk.js.map",
+  "main.css": "/test-fullstack/static/css/main.68a2ced1.chunk.css",
+  "main.js": "/test-fullstack/static/js/main.ef4fb7f4.chunk.js",
+  "main.js.map": "/test-fullstack/static/js/main.ef4fb7f4.chunk.js.map",
   "runtime~main.js": "/test-fullstack/static/js/runtime~main.3714f78a.js",
   "runtime~main.js.map": "/test-fullstack/static/js/runtime~main.3714f78a.js.map",
-  "static/js/2.4f231420.chunk.js": "/test-fullstack/static/js/2.4f231420.chunk.js",
-  "static/js/2.4f231420.chunk.js.map": "/test-fullstack/static/js/2.4f231420.chunk.js.map",
+  "static/js/2.7c2a6a8f.chunk.js": "/test-fullstack/static/js/2.7c2a6a8f.chunk.js",
+  "static/js/2.7c2a6a8f.chunk.js.map": "/test-fullstack/static/js/2.7c2a6a8f.chunk.js.map",
   "index.html": "/test-fullstack/index.html",
-  "precache-manifest.e126bfb6cc58823cda5d9e37f4917e6f.js": "/test-fullstack/precache-manifest.e126bfb6cc58823cda5d9e37f4917e6f.js",
+  "precache-manifest.f84863c1e10b572750bf3664ba2c6a67.js": "/test-fullstack/precache-manifest.f84863c1e10b572750bf3664ba2c6a67.js",
   "service-worker.js": "/test-fullstack/service-worker.js",
-  "static/css/main.c756cdb3.chunk.css.map": "/test-fullstack/static/css/main.c756cdb3.chunk.css.map"
+  "static/css/main.68a2ced1.chunk.css.map": "/test-fullstack/static/css/main.68a2ced1.chunk.css.map"
 }
